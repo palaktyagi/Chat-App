@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "528126549586",
+    "project_id": "socialchatapp-ace39",
+    "storage_bucket": "socialchatapp-ace39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528126549586:android:8d81ba319b9aed3b5c898b",
+        "android_client_info": {
+          "package_name": "com.socialchatapp.socialchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528126549586-fv959jnuvu6reuqqhheah1k7npkrvkmu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVT8VRrPvNunURbEIo1ZBCOvY1O4Ky8jM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528126549586-fv959jnuvu6reuqqhheah1k7npkrvkmu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
